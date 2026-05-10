@@ -8,7 +8,7 @@ This project demonstrates basic project management, documentation, HTML, CSS, an
 
 ## Live Website
 
-https://github.com/carlosgomezmurillo15-bit/Project-3---Final-Project
+https://carlosgomezmurillo15-bit.github.io/WorkoutGuide/
 
 ## Documentation
 
